@@ -1,0 +1,7 @@
+package org.example.shop.order;
+
+public enum DrinkTypeEnum {
+    BEER,WINE,VODKA,BRANDY,CHAMPAGNE,WHISKEY,TEQUILA,
+    RUM, VERMUTH,LIQUOR, JAGERMEISTER, JUICE, COFEE,
+    GREE_TEA, BLACK_TEA, MILK, WATER, SODA;
+}
